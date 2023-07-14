@@ -1,0 +1,26 @@
+[
+    {
+        "args": {
+            "secret_number": 4,
+            "max_attempts": 1
+        },
+        "kwargs": [],
+        "result": true
+    },
+    {
+        "args": {
+            "secret_number": 4,
+            "max_attempts": 1
+        },
+        "kwargs": [],
+        "result": true
+    },
+    {
+        "args": {
+            "secret_number": 8,
+            "max_attempts": 2
+        },
+        "kwargs": [],
+        "result": true
+    }
+]

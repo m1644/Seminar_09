@@ -1,0 +1,23 @@
+[
+    {
+        "args": [
+            "Max"
+        ],
+        "kwargs": {},
+        "result": "Hello, Max!"
+    },
+    {
+        "args": [
+            "Max"
+        ],
+        "kwargs": {},
+        "result": "Hello, Max!"
+    },
+    {
+        "args": [
+            "John"
+        ],
+        "kwargs": {},
+        "result": "Hello, John!"
+    }
+]
